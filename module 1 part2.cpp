@@ -17,7 +17,7 @@ int main() {
     cout<<"age: "<<age<<endl;
     cout<<"marks: "<<marks<<endl;
     cout<<"percentage:"<<percentage<<" % "<<endl;
-    // Write C++ code here
+    
 
     
     return 0;
